@@ -6,7 +6,7 @@ This Python tool allows you to obfuscate Python scripts by renaming variables an
 
 ### Features:
 - **Obfuscation**: Changes the variable and function names to obscure symbols.
-- **Deobfuscation**: Restores the obfuscated code to its original form using the saved mapping.
+- **Deobfuscation**: Restores the obfuscated code to its original form using the saved mapping..
 - **Configurable via Command Line**: Choose between obfuscation or deobfuscation directly from the command line.
 
 ## Installation
